@@ -180,6 +180,7 @@ RDEPENDS:packagegroup-meta-python3 = "\
     python3-idna-ssl \
     python3-ifaddr \
     python3-imageio \
+    python3-imgtool \
     python3-incremental \
     python3-inflection \
     python3-intelhex \
@@ -359,6 +360,7 @@ RDEPENDS:packagegroup-meta-python3 = "\
     python3-pytoml \
     python3-pytun \
     python3-pytz \
+    python3-pytz-deprecation-shim \
     python3-pyudev \
     python3-pyusb \
     python3-pywbem \
